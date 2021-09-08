@@ -32,10 +32,6 @@ import javax.swing.DefaultListModel;
 import javax.swing.JTextArea;
 import javax.swing.JFrame;
 
-// 
-// Decompiled by Procyon v0.5.36
-// 
-
 public class CornController extends JFrame
 {
     private JTextArea shell;
