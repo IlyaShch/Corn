@@ -31,9 +31,6 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.awt.Robot;
 
-// 
-// Decompiled by Procyon v0.5.36
-// 
 
 public class CornSlave
 {
