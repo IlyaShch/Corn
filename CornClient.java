@@ -25,9 +25,6 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.Timer;
 
-// 
-// Decompiled by Procyon v0.5.36
-// 
 
 public class CornClient
 {
