@@ -1,3 +1,3 @@
 # Corn
 Cornbotting
-A bot I wrote with a friend in HS
+Bunch of source code for a bot a friend and I wrote in HS
