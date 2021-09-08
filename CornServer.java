@@ -29,9 +29,7 @@ import java.awt.SystemTray;
 import javax.swing.JTextArea;
 import javax.swing.JFrame;
 
-// 
-// Decompiled by Procyon v0.5.36
-// 
+
 
 public class CornServer extends JFrame
 {
