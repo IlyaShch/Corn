@@ -6,9 +6,6 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.lang.management.ManagementFactory;
 
-// 
-// Decompiled by Procyon v0.5.36
-// 
 
 public class CornRemover
 {
